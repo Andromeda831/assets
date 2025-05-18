@@ -2,7 +2,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">杨丹茹</div>
-      <img src='Danru Yang.jpg' alt="Danru Yang" width="100%">
+      <img src='https://github.com/Andromeda831/assets/blob/main/YDR.jpg' alt="Danru Yang" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
